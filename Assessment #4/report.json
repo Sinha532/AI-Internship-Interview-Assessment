@@ -1,0 +1,76 @@
+{
+    "confirmed": [
+        false,
+        false,
+        true,
+        true,
+        true
+    ],
+    "channels": {
+        "IVR": 1,
+        "WhatsApp": 1,
+        "SMS": 1
+    },
+    "languages": {
+        "Tamil": 0,
+        "Telugu": 0,
+        "Malayalam": 1,
+        "Hindi": 1,
+        "English": 1
+    },
+    "age_groups": {
+        "elderly": {
+            "total": 2,
+            "confirmed": 1
+        },
+        "adult": {
+            "total": 3,
+            "confirmed": 2
+        }
+    },
+    "ab_groups": {
+        "A": {
+            "total": 3,
+            "confirmed": 2
+        },
+        "B": {
+            "total": 2,
+            "confirmed": 1
+        }
+    },
+    "satisfaction_survey": {
+        "overall_language_clarity": {
+            "Tamil": 4.0,
+            "Telugu": 4.0,
+            "Malayalam": 4.0,
+            "Hindi": 4.0,
+            "English": 5.0
+        },
+        "overall_message_ease": {
+            "Tamil": 2.0,
+            "Telugu": 3.0,
+            "Malayalam": 3.0,
+            "Hindi": 4.0,
+            "English": 4.0
+        },
+        "channel_preferences": {
+            "IVR": 2,
+            "WhatsApp": 2,
+            "SMS": 1
+        }
+    },
+    "ab_testing": {
+        "group_A": {
+            "total": 3,
+            "confirmed": 2,
+            "rate": 66.66666666666666
+        },
+        "group_B": {
+            "total": 2,
+            "confirmed": 1,
+            "rate": 50.0
+        }
+    },
+    "total_patients": 5,
+    "confirmed_patients": 3
+}

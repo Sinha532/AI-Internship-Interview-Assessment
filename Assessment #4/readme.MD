@@ -25,7 +25,7 @@ Ensure you have Python installed (>=3.7). If not, download and install it from [
 2. Navigate to the script directory.
 3. Run the script using:
    ```bash
-   python ai_clinic_communication.py
+   python skeletonCodeAssessment4.py
    ```
 4. The system will generate a `report.json` file with performance metrics and survey results.
 
@@ -85,7 +85,7 @@ Developed by **Lokesh Sinha N**
 
 **Mail:** lokeshsinha746@gmail.com
 
-**Contact:**8985042381
+**Contact:** 8985042381
 
 **video explanation here :** https://drive.google.com/file/d/1WQDg9xbUQWjDFa6uHTwCegCun0S3BLIz/view?usp=sharing
 
